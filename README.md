@@ -8,10 +8,10 @@ Currently working with **OpenSource projects on my freetime**.
 
 #### Some links related to my work
 
- - **[Packagist.fi](https://packagist.fi)     —  Packagist Mirror In Finland**
- - **[GameTactic](https://gametactic.eu)      —  Planning tool for Gamers**
- - [IronLions](https://ironlions.fi)        —  Hosting- & Software-services I offer
- - [Personal Blog](https://xn--gran-8qa.fi) —  Talking about what I do
+ - **[Packagist.fi](https://packagist.fi)               —  Packagist Mirror In Finland**
+ - **[GameTactic](https://gametactic.eu)                —  Planning tool for Gamers**
+ - [IronLions](https://ironlions.fi/?language=english)  —  Hosting- & Software-services I offer
+ - [Personal Blog](https://xn--gran-8qa.fi)             —  Talking about what I do
 
  
  ## Support
