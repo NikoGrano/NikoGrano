@@ -10,7 +10,7 @@ Currently working with **OpenSource projects on my freetime**.
 
  - **[Packagist.fi](https://packagist.fi)               —  Packagist Mirror In Finland**
  - **[GameTactic](https://gametactic.eu)                —  Planning tool for Gamers**
- - [IronLions](https://ironlions.fi/?language=english)  —  Hosting- & Software-services I offer
+ - [Fiteco](https://fiteco.fi/?language=english)        —  Hosting- & Software-services I offer
  - [Personal Blog](https://xn--gran-8qa.fi)             —  Talking about what I do
 
  
