@@ -9,7 +9,7 @@ Currently working with **OpenSource projects on my freetime**.
 #### Some links related to my work
 
  - **[Packagist.fi](https://packagist.fi)               —  Packagist Mirror In Finland**
- - **[GameTactic]**(https://gametactic.eu)              —  Planning tool for Gamers, Start-Up
+ - **[GameTactic](https://gametactic.eu)              —  Planning tool for Gamers, Start-Up**
  - [Fiteco](https://fiteco.fi/?language=english)        —  Hosting- & Software-consulting company
  - [Personal Blog](https://xn--gran-8qa.fi)             —  Talking about what I do, sometimes
 
