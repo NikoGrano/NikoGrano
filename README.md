@@ -7,6 +7,8 @@ Been digging into software architecture, working with microservice based applica
 Sandly nowdays too busy to work on private projects and trying to manage the big picture.
 However, always open to work with different technologies and learning more and more.
 
+<!--
+
 #### Some links related to my work
 
  - [Fiteco](https://fiteco.fi/?language=english)     —  Hosting- & Software-consulting company
@@ -20,6 +22,8 @@ However, always open to work with different technologies and learning more and m
  like maintenance fees, servers, etc. All support is very welcome!
  
  **[Github Sponsors](https://github.com/sponsors/NikoGrano/)**
+
+ -->
  
 ## Contact
 
